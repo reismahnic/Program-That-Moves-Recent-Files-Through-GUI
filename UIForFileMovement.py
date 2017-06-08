@@ -14,7 +14,6 @@ from tkinter import messagebox
 import tkinter as tk
 from tkinter import filedialog
 from tkinter.filedialog import askdirectory
-import UIForFileMovementGUI
 import UIForFileMovementFunc
 
 # Frame is the Tkinter frame class that our own class will inherit from

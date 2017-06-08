@@ -24,7 +24,6 @@ from tkinter import filedialog
 # Be sure to import our other modules 
 # so we can have access to them
 import UIForFileMovement
-import UIForFileMovementGUI
 
 
 
